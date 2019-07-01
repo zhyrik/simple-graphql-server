@@ -9,5 +9,9 @@
  * 8) добавляємо nodemon
  * 9) добавляю "companies" в db.json
  * 10) add CompanyType at schema2.js
- * 11) add company to RootQuery 
+ * 11) add company to RootQuery
+ * 
+ * 12) start create mutation 
+ * 13) create deleteUser mutation
+ * 14) create updatUser mutation
  */
